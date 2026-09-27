@@ -1,2 +1,8 @@
-# complaincare-portal
-CampusCare – A modern React-based college complaint management portal for submitting, tracking, and managing student complaints efficiently.
+# CampusCare Frontend
+React + Vite frontend-only CampusCare complaint portal based on the supplied blueprint.
+
+## Run
+npm install
+npm run dev
+
+This version uses mock data and frontend state only. No backend/database is connected.
